@@ -30,9 +30,12 @@ Steps to integrate this project classes into your project
     dependencies{
  
     compile 'com.squareup.okhttp3:logging-interceptor:3.3.1'
-    compile 'com.squareup.okhttp3:okhttp:3.3.1'
-    compile 'com.squareup.retrofit2:converter-gson:2.0.0'
-    compile 'com.squareup.retrofit2:adapter-rxjava:2.0.0'
+   
+   compile 'com.squareup.okhttp3:okhttp:3.3.1'
+   
+   compile 'com.squareup.retrofit2:converter-gson:2.0.0'
+   
+   compile 'com.squareup.retrofit2:adapter-rxjava:2.0.0'
  
     }
  
