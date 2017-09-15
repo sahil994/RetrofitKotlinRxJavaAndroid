@@ -16,6 +16,7 @@ https://segunfamisa.com/posts/setting-up-android-studio-for-kotlin-development
    dependencies{ 
 
    compile 'io.reactivex:rxjava:1.1.0'
+   
    compile 'io.reactivex:rxandroid:1.1.0'
    
   }
