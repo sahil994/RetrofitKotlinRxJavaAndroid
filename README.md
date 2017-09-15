@@ -9,7 +9,7 @@ Steps to integrate this project classes into your project
 
 1. Add this permission in manifest file
 
-   <uses-permission android:name="android.permission.INTERNET"/>
+   uses-permission android:name="android.permission.INTERNET"
 
 2. Configure your android studio with kotlin. Check out this below link to configure the kotlin  
 
@@ -25,7 +25,7 @@ Steps to integrate this project classes into your project
    
     }
   
- 4.Then sync your project ..after that add dependencies for rertofit and retrofit rx adapter
+4. Then sync your project ..after that add dependencies for rertofit and retrofit rx adapter
  
     dependencies{
  
@@ -36,9 +36,9 @@ Steps to integrate this project classes into your project
  
     }
  
- 5. Sync your project 
+5. Sync your project 
  
- 6. All setup now just download this project and copy the Server Request Package 
+6. All setup now just download this project and copy the Server Request Package 
      and model package and paste into your project 
 
 7.  Now you are ready to go.........
